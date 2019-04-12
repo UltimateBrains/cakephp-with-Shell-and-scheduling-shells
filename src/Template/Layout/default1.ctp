@@ -1,0 +1,1 @@
+<?php echo "Hello marbales default layout";?>
